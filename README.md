@@ -91,7 +91,7 @@ This dataset has 50 observations (one for each US state) and the following 15 va
 - HS.Grad - percent of high-school graduates in 1970
 - Frost - the mean number of days with minimum temperature below freezing from 1931–1960 in the capital or a large city of the state
 - Area - the land area (in square miles) of the state
-- state.abb - a 2-letter abreviation for each state
+- state.abb - a 2-letter abbreviation for each state
 - state.area - the area of each state, in square miles
 - x - the longitude of the center of the state
 - y - the latitude of the center of the state
